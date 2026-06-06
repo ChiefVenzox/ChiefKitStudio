@@ -8,6 +8,12 @@ ChiefKit Studio is a native macOS SwiftUI playground for exploring example usage
 
 The first version is intentionally lightweight: it compiles standalone, demonstrates each package visually, and provides copyable `SwiftUI` and `Package.swift` snippets for developers to move into their apps.
 
+## Download
+
+Download the latest macOS DMG setup:
+
+[Download ChiefKit Studio for macOS](https://hnmlabs.com/download.php)
+
 ## Run
 
 Open `Package.swift` in Xcode 26.5 or later, or run:
